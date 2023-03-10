@@ -1,0 +1,6 @@
+asyncpg
+asyncio
+more-itertools
+sqlalchemy
+aiohttp
+greenlet
